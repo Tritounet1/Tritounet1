@@ -2,12 +2,6 @@ Hello 👋
 
 I’m Tristan, a student at the IUT of the La Rochelle.
 
-<div
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tristan-lavocat/)
-
-[![Email Badge](https://img.shields.io/badge/Contact-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](mailto:tristan.lavocat.pro@gmail.com)
-
 <div style="display: flex; gap: 10px;">
   <a href="https://www.linkedin.com/in/tristan-lavocat/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -19,8 +13,8 @@ I’m Tristan, a student at the IUT of the La Rochelle.
 </div>
 
 <a>
-  <img height="225" src="https://github-readme-stats.vercel.app/api?username=Tritounet1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tritounet1&theme=dark"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Tritounet1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tritounet1&theme=dark"/>
 </a>
 
 
