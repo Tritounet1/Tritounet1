@@ -13,8 +13,8 @@ I’m Tristan, a student at the IUT of the La Rochelle.
 </div>
 
 <a>
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Tritounet1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tritounet1&theme=dark"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Tritounet1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tritounet1&theme=dark"/>
 </a>
 
 
