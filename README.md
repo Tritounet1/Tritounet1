@@ -9,7 +9,7 @@ I’m Tristan, a student at the IUT of the La Rochelle.
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tristan-lavocat/)
 
-[![Email Badge](https://img.shields.io/badge/tristan.lavocat%40gmail.com-blue)](mailto:tristan.lavocat.pro@gmail.com)
+[![Email Badge](https://img.shields.io/badge/Contact-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](mailto:tristan.lavocat.pro@gmail.com)
 
 ## 💼 Skills
 <!--
