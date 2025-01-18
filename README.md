@@ -12,10 +12,12 @@ I’m Tristan, a student at the IUT of the La Rochelle.
   </a>
 </div>
 
-<a>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Tritounet1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tritounet1&theme=dark"/>
-</a>
+<br/>
+
+<div style="display: flex; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tritounet1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tritounet1&theme=dark"/>
+</div>
 
 
 ## 💼 Skills
