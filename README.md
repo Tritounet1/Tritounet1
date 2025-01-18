@@ -2,7 +2,7 @@ Hello 👋
 
 I’m Tristan, a student at the IUT of the La Rochelle.
 
-<a href="https://github.com/daniellaera">
+<a href="https://github.com/Tritounet1">
   <img height="225" src="https://github-readme-stats.vercel.app/api?username=Tritounet1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tritounet1&theme=dark"/>
 </a>
