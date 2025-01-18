@@ -2,12 +2,12 @@ Hello 👋
 
 I’m Tristan, a student at the IUT of the La Rochelle.
 
-<div style="display: flex; gap: 10px;">
-  <a href="https://www.linkedin.com/in/tristan-lavocat/">
+<div style="display: flex; gap: 25px;">
+  <a target="_blank" href="https://www.linkedin.com/in/tristan-lavocat/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   
-  <a href="mailto:tristan.lavocat.pro@gmail.com">
+  <a target="_blank" href="mailto:tristan.lavocat.pro@gmail.com">
     <img src="https://img.shields.io/badge/Contact-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Email">
   </a>
 </div>
