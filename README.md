@@ -1,6 +1,6 @@
 Hello 👋
 
-Hi, I’m Tristan! I’m a student at the IUT of La Rochelle.
+I’m Tristan! I’m a student at the IUT of La Rochelle.
 
 <div style="display: flex; gap: 25px;">
   <a target="_blank" href="https://www.linkedin.com/in/tristan-lavocat/">
