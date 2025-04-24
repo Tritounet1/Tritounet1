@@ -2,8 +2,7 @@ Hello 👋
 
 I’m Tristan! I’m a french student at the IUT of La Rochelle.
 
-Want to know more about me? Take a look at my website <a href="https://tritounet.fr" target="_blank"> right here </a>!
-
+Want to know more about me? Take a look [right here](https://tritounet.fr)!
 
 <br/>
 
