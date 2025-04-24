@@ -2,11 +2,8 @@ Hello 👋
 
 I’m Tristan! I’m a french student at the IUT of La Rochelle.
 
-<div style="display: flex; gap: 25px;">
-  <a target="_blank" href="https://www.linkedin.com/in/tristan-lavocat/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</div>
+Want to know more about me? Take a look at my website <a href="https://tritounet.fr" target="_blank"> right here </a>!
+
 
 <br/>
 
@@ -34,3 +31,13 @@ I’m Tristan! I’m a french student at the IUT of La Rochelle.
 ![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
+## Contact
+
+<div style="display: flex; gap: 25px;">
+  <a href="mailto:tristan.lavocat.pro@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+   <a target="_blank" href="https://www.linkedin.com/in/tristan-lavocat/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
