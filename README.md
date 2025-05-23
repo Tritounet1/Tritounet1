@@ -4,14 +4,6 @@ I’m Tristan! I’m a french student at the IUT of La Rochelle.
 
 Want to know more about me? Take a look [right here](https://tritounet.fr)!
 
-<br/>
-
-<div style="display: flex; gap: 10px;">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Tritounet1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tritounet1&theme=dark"/>
-</div>
-
-
 ## 💼 Skills
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
