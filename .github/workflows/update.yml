@@ -64,6 +64,9 @@ jobs:
           cp -r scraper/Tritounet1/artwork_images ./
           cp scraper/Tritounet1/README.md ./
 
+      - name: Clean up scraper folder
+        run: rm -rf scraper
+        
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
