@@ -49,6 +49,9 @@ jobs:
       - name: Run Apple Music scraping
         run: |
           cd scraper
+          # Configure Puppeteer to use the installed Chrome and disable sandbox
+          export PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=true
+          export PUPPETEER_EXECUTABLE_PATH=/opt/hostedtoolcache/setup-chrome/chrome/stable/x64/chrome
           node index.js
 
       - name: Update README
