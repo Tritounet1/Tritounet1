@@ -61,8 +61,7 @@ jobs:
 
       - name: Copy updated files to current repository
         run: |
-          cp -r scraper/Tritounet1/artwork_images ./
-          cp scraper/Tritounet1/README.md ./
+          cp -r scraper/artwork_images ./
 
       - name: Clean up scraper folder
         run: rm -rf scraper
