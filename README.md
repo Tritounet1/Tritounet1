@@ -1,6 +1,6 @@
 Hello 👋
 
-I’m Tristan! I’m a french student at the IUT of La Rochelle.
+I’m Tristan! I’m a French full-stack developer.
 
 Want to know more about me? Take a look [right here](https://tritounet.fr)!
 
@@ -22,6 +22,12 @@ Want to know more about me? Take a look [right here](https://tritounet.fr)!
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+## 🎓 Education
+
+**BUT Informatique – Full-Stack Development Option (3 years)**  
+IUT of La Rochelle, France  
+2022 – 2025
 
 ## Contact
 

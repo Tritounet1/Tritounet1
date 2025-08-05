@@ -1,0 +1,64 @@
+name: Update Apple Music Playlist
+
+on:
+  schedule:
+    - cron: "0 0 */7 * *" 
+  workflow_dispatch:
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout current repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Clone Apple Music Scraper repository
+        run: |
+          git clone https://github.com/Tritounet1/apple-music-playlist-scraper.git scraper
+          cd scraper
+
+      - name: Install dependencies
+        run: |
+          cd scraper
+          npm install
+
+      - name: Create .env file
+        run: |
+          cd scraper
+          cat > .env << EOF
+          GITHUB_ACCOUNT=Tritounet1
+          GITHUB_REPO_PATH=../Tritounet1
+          PLAYLIST_URL=https://music.apple.com/fr/playlist/playlist-general/pl.u-vxy6kvMt82a24y0
+          NUMBER_OF_TRACKS=5
+          UPDATE_GITHUB_README=true
+          EOF
+
+      - name: Run Apple Music scraping
+        run: |
+          cd scraper
+          node index.js
+
+      - name: Update README
+        run: |
+          cd scraper
+          node script.js
+
+      - name: Copy updated files to current repository
+        run: |
+          cp -r scraper/Tritounet1/artwork_images ./
+          cp scraper/Tritounet1/README.md ./
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git diff --quiet && git diff --staged --quiet || git commit -m "feat: 🎵 Update Currently Listening section"
+          git push 
