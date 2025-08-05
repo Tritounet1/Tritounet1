@@ -19,6 +19,12 @@ jobs:
         with:
           node-version: '18'
 
+      - name: Install Puppeteer dependencies
+        uses: browser-actions/setup-chrome@v2
+
+      - name: Check Chrome version
+        run: chrome --version
+    
       - name: Clone Apple Music Scraper repository
         run: |
           git clone https://github.com/Tritounet1/apple-music-playlist-scraper.git scraper
