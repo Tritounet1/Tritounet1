@@ -56,15 +56,15 @@ jobs:
           export PUPPETEER_EXECUTABLE_PATH=/opt/hostedtoolcache/setup-chrome/chrome/stable/x64/chrome
           node dist/index.js
 
-      - name: Update README
+      - name: Create svg image
         run: |
           cd scraper
-          node dist/script.js
+          node dist/test.js
 
       - name: Copy updated files to current repository
         run: |
-          cp -r scraper/artwork_images ./
-          cp scraper/playlist_tracks.json ./
+          cp -r scraper/playlist-top5.svg ./assets/
+          cp scraper/playlist_tracks.json ./datas/
 
       - name: Clean up scraper folder
         run: rm -rf scraper
