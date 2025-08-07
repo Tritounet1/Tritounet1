@@ -1,6 +1,20 @@
 [
   {
     "position": 1,
+    "title": "Rat A Tat",
+    "titleLink": "https://music.apple.com/fr/song/rat-a-tat/1627445790",
+    "artists": "Midnight Grand Orchestra",
+    "artistLinks": [
+      "https://music.apple.com/fr/artist/midnight-grand-orchestra/1615949186"
+    ],
+    "album": "Overture",
+    "albumLink": "https://music.apple.com/fr/album/rat-a-tat/1627445786",
+    "duration": "3:44",
+    "artworkSrc": "./artwork_images/artwork_1_Rat_A_Tat.jpg",
+    "isExplicit": false
+  },
+  {
+    "position": 2,
     "title": "Citrus Love",
     "titleLink": "https://music.apple.com/fr/song/citrus-love/1643717858",
     "artists": "Bao The Whale · Overspace",
@@ -11,21 +25,7 @@
     "album": "Citrus Love - EP",
     "albumLink": "https://music.apple.com/fr/album/citrus-love/1643717857",
     "duration": "4:10",
-    "artworkSrc": "./artwork_images/artwork_1_Citrus_Love.jpg",
-    "isExplicit": false
-  },
-  {
-    "position": 2,
-    "title": "Rat A Tat",
-    "titleLink": "https://music.apple.com/fr/song/rat-a-tat/1627445790",
-    "artists": "Midnight Grand Orchestra",
-    "artistLinks": [
-      "https://music.apple.com/fr/artist/midnight-grand-orchestra/1615949186"
-    ],
-    "album": "Overture",
-    "albumLink": "https://music.apple.com/fr/album/rat-a-tat/1627445786",
-    "duration": "3:44",
-    "artworkSrc": "./artwork_images/artwork_2_Rat_A_Tat.jpg",
+    "artworkSrc": "./artwork_images/artwork_2_Citrus_Love.jpg",
     "isExplicit": false
   },
   {
@@ -44,6 +44,20 @@
   },
   {
     "position": 4,
+    "title": "AWAKE",
+    "titleLink": "https://music.apple.com/fr/song/awake/1779410832",
+    "artists": "Hoshimachi Suisei",
+    "artistLinks": [
+      "https://music.apple.com/fr/artist/hoshimachi-suisei/1503670948"
+    ],
+    "album": "AWAKE - Single",
+    "albumLink": "https://music.apple.com/fr/album/awake/1779410831",
+    "duration": "3:16",
+    "artworkSrc": "./artwork_images/artwork_4_AWAKE.jpg",
+    "isExplicit": false
+  },
+  {
+    "position": 5,
     "title": "Never Ending Midnights",
     "titleLink": "https://music.apple.com/fr/song/never-ending-midnights/1627445787",
     "artists": "Midnight Grand Orchestra",
@@ -53,21 +67,7 @@
     "album": "Overture",
     "albumLink": "https://music.apple.com/fr/album/never-ending-midnights/1627445786",
     "duration": "3:07",
-    "artworkSrc": "./artwork_images/artwork_4_Never_Ending_Midnights.jpg",
-    "isExplicit": false
-  },
-  {
-    "position": 5,
-    "title": "魔性の女A",
-    "titleLink": "https://music.apple.com/fr/song/%E9%AD%94%E6%80%A7%E3%81%AE%E5%A5%B3a/1740692507",
-    "artists": "Mulasaki Ima",
-    "artistLinks": [
-      "https://music.apple.com/fr/artist/mulasaki-ima/1599545168"
-    ],
-    "album": "魔性の女A - Single",
-    "albumLink": "https://music.apple.com/fr/album/%E9%AD%94%E6%80%A7%E3%81%AE%E5%A5%B3a/1740692174",
-    "duration": "3:40",
-    "artworkSrc": "./artwork_images/artwork_5_____A.jpg",
+    "artworkSrc": "./artwork_images/artwork_5_Never_Ending_Midnights.jpg",
     "isExplicit": false
   }
 ]
