@@ -30,6 +30,20 @@
   },
   {
     "position": 3,
+    "title": "Highway",
+    "titleLink": "https://music.apple.com/fr/song/highway/1627445793",
+    "artists": "Midnight Grand Orchestra",
+    "artistLinks": [
+      "https://music.apple.com/fr/artist/midnight-grand-orchestra/1615949186"
+    ],
+    "album": "Overture",
+    "albumLink": "https://music.apple.com/fr/album/highway/1627445786",
+    "duration": "4:05",
+    "artworkSrc": "./artwork_images/artwork_3_Highway.jpg",
+    "isExplicit": false
+  },
+  {
+    "position": 4,
     "title": "Caramel Pain",
     "titleLink": "https://music.apple.com/fr/song/caramel-pain/1789078179",
     "artists": "Hoshimachi Suisei",
@@ -39,11 +53,11 @@
     "album": "SHINSEI MOKUROKU",
     "albumLink": "https://music.apple.com/fr/album/caramel-pain/1789078173",
     "duration": "2:59",
-    "artworkSrc": "./artwork_images/artwork_3_Caramel_Pain.jpg",
+    "artworkSrc": "./artwork_images/artwork_4_Caramel_Pain.jpg",
     "isExplicit": false
   },
   {
-    "position": 4,
+    "position": 5,
     "title": "AWAKE",
     "titleLink": "https://music.apple.com/fr/song/awake/1779410832",
     "artists": "Hoshimachi Suisei",
@@ -53,21 +67,7 @@
     "album": "AWAKE - Single",
     "albumLink": "https://music.apple.com/fr/album/awake/1779410831",
     "duration": "3:16",
-    "artworkSrc": "./artwork_images/artwork_4_AWAKE.jpg",
-    "isExplicit": false
-  },
-  {
-    "position": 5,
-    "title": "Never Ending Midnights",
-    "titleLink": "https://music.apple.com/fr/song/never-ending-midnights/1627445787",
-    "artists": "Midnight Grand Orchestra",
-    "artistLinks": [
-      "https://music.apple.com/fr/artist/midnight-grand-orchestra/1615949186"
-    ],
-    "album": "Overture",
-    "albumLink": "https://music.apple.com/fr/album/never-ending-midnights/1627445786",
-    "duration": "3:07",
-    "artworkSrc": "./artwork_images/artwork_5_Never_Ending_Midnights.jpg",
+    "artworkSrc": "./artwork_images/artwork_5_AWAKE.jpg",
     "isExplicit": false
   }
 ]
