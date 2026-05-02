@@ -24,6 +24,7 @@ Want to know more about me? Take a look [right here](https://tritounet.fr)!
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-10264F?style=for-the-badge&logo=brain&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6A00?style=for-the-badge&logo=n8n&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ## 🎓 Education
 
